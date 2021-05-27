@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/alysiawon/anaconda3/envs/PythonData/bin/python"
+    "python.pythonPath": "/Users/alysiawon/anaconda3/envs/PythonData/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
