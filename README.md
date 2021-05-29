@@ -20,7 +20,7 @@ However, when comparing the average fare per ride and average fare per driver, r
 
 The week-over-week total fares by city type DataFrame and line chart shows us that between January 1 2019 to April 29 2019 that urban cities have the most total fares, followed by suburban cities and lastly followed by rural cities. 
 
-<img src="Analysis/PyBer_Fare_Summary.png" width="700">
+<img src="Analysis/PyBer_Fare_Summary.png" width="800">
 
 ## Summary
 
