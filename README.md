@@ -21,7 +21,11 @@ However, when comparing the average fare per ride and average fare per driver, r
 
 ### Weekly Total Fares Summary By City Type
 
-The week-over-week total fares by city type DataFrame and line chart shows us that between January 1 2019 to April 29 2019 that urban cities have the most total fares, followed by suburban cities and lastly followed by rural cities. 
+The week-over-week total fares by city type DataFrame and line chart shows us that between January 1 to April 28 2019 that urban cities have the most total fares, followed by suburban cities then rural cities.
+
+The week-over-week changes vary between each city, where some weeks may be high for others and some weeks may be low for others. 
+
+However, it is important to note that on the week of 2019-02-24 that all three city types had a huge spike. This week had the highest total fares for both urban and suburban cities. 
 
 <img src="Analysis/PyBer_Fare_Summary.png" width="800">
 
