@@ -17,6 +17,8 @@ After consolidating the Ride-Sharing data by City Type, the results showcase tha
 
 However, when comparing the average fare per ride and average fare per driver, rural cities are the most expensive and urban cities are less expensive. 
 
+This is the Ride-Sharing Summary by City Type DataFrame:
+
 <img src="Analysis/Pyber_Summary_DataFrame.png" width="700">
 
 ### Weekly Total Fares Summary By City Type
@@ -26,6 +28,12 @@ The week-over-week total fares by city type DataFrame and line chart shows us th
 The week-over-week changes vary between each city, where some weeks may be high for others and some weeks may be low for others. 
 
 However, it is important to note that on the week of 2019-02-24 that all three city types had a huge spike. This week had the highest total fares for both urban and suburban cities. 
+
+This is the Weekly Total Fares Summary by City Type DataFrame:
+
+<img src="Analysis/PyBer_Fare_Summary_DataFrame.png" width="800">
+
+This is the multiple-line chart:
 
 <img src="Analysis/PyBer_Fare_Summary.png" width="800">
 
