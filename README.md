@@ -31,7 +31,7 @@ However, it is important to note that on the week of 2019-02-24 that all three c
 
 This is the Weekly Total Fares Summary by City Type DataFrame:
 
-<img src="Analysis/PyBer_Fare_Summary_DataFrame.png" width="500">
+<img src="Analysis/PyBer_Fare_Summary_DataFrame.png" width="250">
 
 This is the multiple-line chart:
 
