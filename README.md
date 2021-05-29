@@ -33,7 +33,7 @@ This is the Weekly Total Fares Summary by City Type DataFrame:
 
 <img src="Analysis/PyBer_Fare_Summary_DataFrame.png" width="250">
 
-This is the multiple-line chart:
+This is the Weekly Total Fares Summary by City Type multiple-line chart:
 
 <img src="Analysis/PyBer_Fare_Summary.png" width="800">
 
